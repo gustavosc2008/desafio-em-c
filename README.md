@@ -31,9 +31,10 @@ O objetivo principal foi desenvolver e executar programas em linguagem C dentro 
 - Implementação correta da lógica de processos e manipulação de arquivos em C.  
 
 ##  Estrutura do Repositório
-- `main.c` → Código-fonte em C com uso de **fork()**, manipulação de arquivos e interação com o usuário.  
+- `p1.c` → Código-fonte em C com uso de **fork()**, manipulação de arquivos e interação com o usuário.  
 - `relatorio_so.txt` → Arquivo gerado pelo programa contendo informações do aluno, data, PID e resultados da execução.  
-- `README.md` → Documentação do projeto com instruções e descrição da atividade.  
+- `README.md` → Documentação do projeto com instruções e descrição da atividade.
+- ´p1´ → o arquivo exe do p1.c, para executar
 
 ##  Resultado
 Ao final, o ambiente foi configurado com sucesso, permitindo compilar e executar programas em C no Ubuntu utilizando o GCC diretamente pelo **Visual Studio Code**.  
