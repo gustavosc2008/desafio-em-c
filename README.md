@@ -1,7 +1,7 @@
 # 🖥️ Atividade de Sistemas Operacionais
 
 ## 📌 Descrição
-Esta atividade foi realizada na disciplina **Sistemas Operacionais**, com base no documento **"Teste Prático em C"**.  
+Esta atividade foi realizada na disciplina **Sistemas Operacionais**, com base no documento **"Teste Prático em C.docx"**.  
 O objetivo principal foi desenvolver e executar programas em linguagem C dentro de um ambiente Linux.
 
 ## 🚀 Etapas Realizadas
